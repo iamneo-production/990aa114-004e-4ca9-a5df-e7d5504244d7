@@ -1,0 +1,5 @@
+service/GadgetsDao.class
+service/GadgetsDaoImpl.class
+controller/GadgetsController.class
+model/Gadgets.class
+utility/ConnectionManager.class

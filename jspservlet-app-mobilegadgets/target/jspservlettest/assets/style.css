@@ -1,0 +1,14 @@
+div.content{
+    background-color:#cd84f1;
+    height:50px;
+    width:auto;
+    margin:10px;
+}
+div.content1{
+    background-color: aqua;
+    height:auto;
+    width:auto;
+    float:left;
+    margin:20px;
+}
+
